@@ -1,4 +1,4 @@
-# Assignment No. 4 – API Testing with Postman
+# API Testing with Postman
 
 ## Overview
 
